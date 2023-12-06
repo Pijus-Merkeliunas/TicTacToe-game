@@ -1,0 +1,18 @@
+#include "TicTacToe.h"
+
+IDI_ICON1 ICON "X.ico"
+IDI_ICON2 ICON "O.ico"
+IDI_ICON3 ICON "tictactoe.ico"
+
+IDR_MYMENU MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "E&xit", ID_FILE_EXIT
+    END
+
+    POPUP "&Game"
+    BEGIN
+        MENUITEM "&Restart", ID_RESTART
+    END
+END

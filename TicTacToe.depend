@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1644505897 source:c:\users\gamer\documents\codeblock\tictactoe\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	"TicTacToe.h"
+	<windowsx.h>
+	"dllheader.h"
+
+1638280696 c:\users\gamer\documents\codeblock\tictactoe\tictactoe.h
+	<windows.h>
+
+1638280671 source:c:\users\gamer\documents\codeblock\tictactoe\tictactoe.rc
+	"TicTacToe.h"
+
+1638280555 c:\users\gamer\documents\codeblock\tictactoe\dllheader.h
+	<windows.h>
+
